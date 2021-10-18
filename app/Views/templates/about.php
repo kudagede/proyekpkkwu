@@ -12,7 +12,7 @@
         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
         Copyright &copy;<script>
             document.write(new Date().getFullYear());
-        </script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib.com</a>
+        </script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="../assets/images/download.jpg" target="_blank">Colorlib.com</a>
         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
     </p>
 </div>
@@ -28,7 +28,7 @@
                 <div class="col-md-6 d-flex align-items-center">
                     <div class="text px-4 pt-5 pt-md-0 px-md-4 pr-md-5 ftco-animate">
                         <h2 class="mb-4">Hello! I'm<span>Travis Black</span> the CEO of a D'House</h2>
-                        <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+                        <p>From imagination to realization<br>As an interior design team, we have the qualifications to translate your vision into the right interior design and meet your taste in choosing an interior.<br>Produce a suitable interior</p>
                         <div class="team-wrap row mt-4">
                             <div class="col-md-4 team">
                                 <div class="img" style="background-image: url(../assets/images/team-1.jpg);"></div>
@@ -38,12 +38,12 @@
                             <div class="col-md-4 team">
                                 <div class="img" style="background-image: url(../assets/images/team-2.jpg);"></div>
                                 <h3>John Flex</h3>
-                                <span>Design</span>
+                                <span>Designer</span>
                             </div>
                             <div class="col-md-4 team">
                                 <div class="img" style="background-image: url(../assets/images/team-3.jpg);"></div>
                                 <h3>John Flex</h3>
-                                <span>design</span>
+                                <span>designer</span>
                             </div>
                         </div>
                     </div>
