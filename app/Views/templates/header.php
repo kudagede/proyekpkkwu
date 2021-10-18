@@ -27,12 +27,12 @@
         <a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
         <aside id="colorlib-aside" role="complementary" class="js-fullheight">
 
-            <h1 id="colorlib-logo" class="mb-4 mb-md-5"><a href="index.html" style="background-image: url(assets/images/bg_1.jpg);">D'House</a></h1>
+            <h1 id="colorlib-logo" class="mb-4 mb-md-5"><a href="<?= base_url("") ?>" style="background-image: url(/assets/images/bg_1.jpg);">D'House</a></h1>
             <nav id="colorlib-main-menu" role="navigation">
                 <ul>
-                    <li class="<?= ($halaman_aktif == "index") ? "colorlib-active" : "" ?>"><a href="<?= base_url("") ?>">Home</a></li>
+                    <li class="<?= ($halaman_aktif == "home") ? "colorlib-active" : "" ?>"><a href="<?= base_url("") ?>">Home</a></li>
                     <li class="<?= ($halaman_aktif == "gallery") ? "colorlib-active" : "" ?>"><a href="<?= base_url("/home/gallery") ?>">Gallery</a></li>
-                    <li class="<?= ($halaman_aktif == "about") ? "colorlib-active" : "" ?>"><a href="<?= base_url("/home/about") ?>">About</a></li>
+                    <li class="<?= ($halaman_aktif == "about") ? "colorlib-active" : "" ?>"><a href="<?= base_url("/home/about") ?>">About Us</a></li>
                     <li class="<?= ($halaman_aktif == "interior") ? "colorlib-active" : "" ?>"><a href="<?= base_url("/home/interior") ?>">Interior</a></li>
                     <li class="<?= ($halaman_aktif == "contact") ? "colorlib-active" : "" ?>"><a href="<?= base_url("/home/contact") ?>">Contact</a></li>
                 </ul>

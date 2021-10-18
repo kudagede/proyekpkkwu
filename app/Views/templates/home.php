@@ -34,12 +34,12 @@
                                     <div class="desc">
                                         <div class="top">
                                             <span class="subheading">Portrait</span>
-                                            <h2 class="mb-4"><a href="gallery.html">Black &amp; Gold Paint Face</a></h2>
+                                            <h2 class="mb-4"><a href="gallery.php">Black &amp; Gold Paint Face</a></h2>
                                         </div>
                                         <div class="absolute">
                                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
                                         </div>
-                                        <p><a href="single.html" class="custom-btn">View Portfolio</a></p>
+                                        <p><a href="<?= base_url("/home/single") ?>" class="custom-btn">View Portfolio</a></p>
                                     </div>
                                 </div>
                             </div>

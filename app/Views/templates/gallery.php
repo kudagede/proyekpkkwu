@@ -23,13 +23,13 @@
             <div class="row d-flex no-gutters">
                 <div class="col-md-4 portfolio-wrap-2">
                     <div class="row no-gutters align-items-center">
-                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(images/work-1.jpg);">
+                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(../assets/images/work-1.jpg);">
                             <div class="text p-4 p-md-5 ftco-animate">
                                 <div class="desc">
                                     <div class="top">
                                         <span class="subheading">Portrait</span>
-                                        <h2 class="mb-4"><a href="single.html">Black &amp; Gold Paint Face</a></h2>
-                                        <p><a href="single.html" class="custom-btn">View Portfolio</a></p>
+                                        <h2 class="mb-4"><a href="<?= base_url("/home/single") ?>">Black &amp; Gold Paint Face</a></h2>
+                                        <p><a href="<?= base_url("/home/single") ?>" class="custom-btn">View Portfolio</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -38,7 +38,7 @@
                 </div>
                 <div class="col-md-4 portfolio-wrap-2">
                     <div class="row no-gutters align-items-center">
-                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(images/work-2.jpg);">
+                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(../assets/images/work-2.jpg);">
                             <div class="text p-4 p-md-5 ftco-animate">
                                 <div class="desc">
                                     <div class="top">
@@ -53,7 +53,7 @@
                 </div>
                 <div class="col-md-4 portfolio-wrap-2">
                     <div class="row no-gutters align-items-center">
-                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(images/work-3.jpg);">
+                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(../assets/images/work-3.jpg);">
                             <div class="text p-4 p-md-5 ftco-animate">
                                 <div class="desc">
                                     <div class="top">
@@ -69,7 +69,7 @@
 
                 <div class="col-md-4 portfolio-wrap-2">
                     <div class="row no-gutters align-items-center">
-                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(images/work-4.jpg);">
+                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(../assets/images/work-4.jpg);">
                             <div class="text p-4 p-md-5 ftco-animate">
                                 <div class="desc">
                                     <div class="top">
@@ -84,7 +84,7 @@
                 </div>
                 <div class="col-md-4 portfolio-wrap-2">
                     <div class="row no-gutters align-items-center">
-                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(images/work-5.jpg);">
+                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(../assets/images/work-5.jpg);">
                             <div class="text p-4 p-md-5 ftco-animate">
                                 <div class="desc">
                                     <div class="top">
@@ -99,7 +99,7 @@
                 </div>
                 <div class="col-md-4 portfolio-wrap-2">
                     <div class="row no-gutters align-items-center">
-                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(images/work-6.jpg);">
+                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(../assets/images/work-6.jpg);">
                             <div class="text p-4 p-md-5 ftco-animate">
                                 <div class="desc">
                                     <div class="top">
@@ -115,7 +115,7 @@
 
                 <div class="col-md-4 portfolio-wrap-2">
                     <div class="row no-gutters align-items-center">
-                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(images/work-7.jpg);">
+                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(../assets/images/work-7.jpg);">
                             <div class="text p-4 p-md-5 ftco-animate">
                                 <div class="desc">
                                     <div class="top">
@@ -130,7 +130,7 @@
                 </div>
                 <div class="col-md-4 portfolio-wrap-2">
                     <div class="row no-gutters align-items-center">
-                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(images/work-8.jpg);">
+                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(../assets/images/work-8.jpg);">
                             <div class="text p-4 p-md-5 ftco-animate">
                                 <div class="desc">
                                     <div class="top">
@@ -145,7 +145,7 @@
                 </div>
                 <div class="col-md-4 portfolio-wrap-2">
                     <div class="row no-gutters align-items-center">
-                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(images/work-9.jpg);">
+                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(assets/images/work-9.jpg);">
                             <div class="text p-4 p-md-5 ftco-animate">
                                 <div class="desc">
                                     <div class="top">
@@ -161,7 +161,7 @@
 
                 <div class="col-md-4 portfolio-wrap-2">
                     <div class="row no-gutters align-items-center">
-                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(images/work-10.jpg);">
+                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(../assets/images/work-10.jpg);">
                             <div class="text p-4 p-md-5 ftco-animate">
                                 <div class="desc">
                                     <div class="top">
@@ -176,7 +176,7 @@
                 </div>
                 <div class="col-md-4 portfolio-wrap-2">
                     <div class="row no-gutters align-items-center">
-                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(images/work-11.jpg);">
+                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(../assets/images/work-11.jpg);">
                             <div class="text p-4 p-md-5 ftco-animate">
                                 <div class="desc">
                                     <div class="top">
@@ -191,7 +191,7 @@
                 </div>
                 <div class="col-md-4 portfolio-wrap-2">
                     <div class="row no-gutters align-items-center">
-                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(images/work-12.jpg);">
+                        <div href="#" class="img w-100 js-fullheight d-flex align-items-center" style="background-image: url(assets/images/work-12.jpg);">
                             <div class="text p-4 p-md-5 ftco-animate">
                                 <div class="desc">
                                     <div class="top">

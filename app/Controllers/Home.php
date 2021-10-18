@@ -8,10 +8,10 @@ class Home extends BaseController
     {
         $data = [
             "judul_halaman" => "haysyg",
-            "halaman_aktif" => "index"
+            "halaman_aktif" => "home"
         ];
         echo view('/templates/header.php', $data);
-        echo view('/templates/index.php');
+        echo view('/templates/home.php');
         echo view('/templates/footer.php');
     }
 
@@ -32,7 +32,7 @@ class Home extends BaseController
     {
         $data = [
             "judul_halaman" => "haysyg",
-            "halaman_aktif" => "gallery"
+            "halaman_aktif" => "about"
         ];
         echo view('/templates/header.php', $data);
         echo view('/templates/about.php');
@@ -44,7 +44,7 @@ class Home extends BaseController
     {
         $data = [
             "judul_halaman" => "haysyg",
-            "halaman_aktif" => "gallery"
+            "halaman_aktif" => "interior"
         ];
         echo view('/templates/header.php', $data);
         echo view('/templates/interior.php');
@@ -56,10 +56,22 @@ class Home extends BaseController
     {
         $data = [
             "judul_halaman" => "haysyg",
-            "halaman_aktif" => "gallery"
+            "halaman_aktif" => "contact"
         ];
         echo view('/templates/header.php', $data);
         echo view('/templates/contact.php');
+        echo view('/templates/footer.php');
+    }
+
+
+    public function single()
+    {
+        $data = [
+            "judul_halaman" => "haysyg",
+            "halaman_aktif" => "single"
+        ];
+        echo view('/templates/header.php', $data);
+        echo view('/templates/single.php');
         echo view('/templates/footer.php');
     }
 }
